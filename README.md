@@ -30,7 +30,7 @@ You are free to post some requests in the [issues tab](https://github.com/mxKeat
 - [AL's Spiders Revamped](https://www.curseforge.com/minecraft/texture-packs/als-spiders-revamped)
 - [AL's Spiders Revamped x Fresh Animations](https://www.curseforge.com/minecraft/texture-packs/als-spiders-revamped-x-fresh-animations)
 
-### Adds compatibility for those mods:
+### Adds compatibility to these mods:
 - [Regions Unexplored](https://www.curseforge.com/minecraft/mc-mods/regions-unexplored)
 - [Cavernous](https://www.curseforge.com/minecraft/data-packs/cavernous)
 - [Gardens of the Dead](https://www.curseforge.com/minecraft/mc-mods/gardens-of-the-dead)
