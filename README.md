@@ -43,7 +43,7 @@ You are free to post some requests in the [issues tab](https://github.com/mxKeat
 - [Hazardous Hoglins](https://www.curseforge.com/minecraft/texture-packs/hazardous-hoglins/gallery)
 
 ### Suggested sorting order is:
-- Denis' Better Mobs Compats
+- Denis' Mightier Mobs
 - All the different Mob Resource Packs
 
 Credit goes to the original resource pack creators!
