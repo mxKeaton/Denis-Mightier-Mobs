@@ -24,13 +24,11 @@ You are free to post some requests in the [issues tab](https://github.com/mxKeat
 - [Better Illagers](https://www.curseforge.com/minecraft/texture-packs/better-illagers)
 - [Better Illagers x Fresh Animations](https://www.curseforge.com/minecraft/texture-packs/better-illagers-x-fresh-animations)
 
---------------------------------------------------------------------------------
+------
 
+#### [ALthegatorMC](https://www.curseforge.com/members/althegatormc/projects)'s resource packs
 - [AL's Spiders Revamped](https://www.curseforge.com/minecraft/texture-packs/als-spiders-revamped)
 - [AL's Spiders Revamped x Fresh Animations](https://www.curseforge.com/minecraft/texture-packs/als-spiders-revamped-x-fresh-animations)
-
-### Planned compatibilities:
-- [Hazardous Hoglins](https://www.curseforge.com/minecraft/texture-packs/hazardous-hoglins/gallery)
 
 ### Adds compatibility for those mods:
 - [Regions Unexplored](https://www.curseforge.com/minecraft/mc-mods/regions-unexplored)
@@ -40,6 +38,9 @@ You are free to post some requests in the [issues tab](https://github.com/mxKeat
 - [BetterEnd](https://www.curseforge.com/minecraft/mc-mods/betterend)
 - [BetterNether](https://www.curseforge.com/minecraft/mc-mods/betternether)
 - [Cinderscapes](https://www.curseforge.com/minecraft/mc-mods/cinderscapes)
+
+### Planned compatibilities:
+- [Hazardous Hoglins](https://www.curseforge.com/minecraft/texture-packs/hazardous-hoglins/gallery)
 
 ### Suggested sorting order is:
 - Denis' Better Mobs Compats
